@@ -12,3 +12,6 @@
 library(MASS)
 
 a <- 1
+b <- 2
+
+# We can now check to see previous changes using history
