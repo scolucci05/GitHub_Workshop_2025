@@ -15,3 +15,6 @@ a <- 1
 b <- 2
 
 # We can now check to see previous changes using history
+
+# Next, we need to make sure the data is stored elsewhere on your computer
+# Could be a hard drive, but instead we will use GitHub (internet cloud)
