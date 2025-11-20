@@ -18,3 +18,9 @@ b <- 2
 
 # Next, we need to make sure the data is stored elsewhere on your computer
 # Could be a hard drive, but instead we will use GitHub (internet cloud)
+
+# Making another Change after uploading to GitHub
+c <- 3
+
+# Another change
+d <- 4
